@@ -14,15 +14,15 @@ package com.myclu.exercise01_03;
          J J  A   A  V   A   A
  * 
  * @author      Farzin Dinyarian
- * @version     %I%, %G%
- * @since       1.0
+ * @version     1.0
+ * @since       12/22/2019
  */
 public class Exercise01_03 {
     /**
      * main function to print JAVA String.
      * @param args 
      * @see       
-     * @since     1.0
+     * @since     12/22/2019
      */  
   public static void main(String[] args) {
     System.out.println("    J     A     V     V    A     ");  
